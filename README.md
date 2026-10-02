@@ -108,4 +108,4 @@ The checks found no missing values, duplicate records, invalid scores or broken 
 ## Author
 
 **Samvel Khachatryan** – Business & Data Analyst
-[GitHub](https://github.com/Sam-Khach) · sam.khachatryan99@mail.ru
+[GitHub](https://github.com/Sam-Khach) · sam.khachnsjsjs@gmail.com
